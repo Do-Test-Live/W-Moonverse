@@ -63,8 +63,8 @@ nav{
     height: 1268px;
     width: 100%;
 
-    background-image: url("../image/0_HeroBG.jpg");
-    background-size: cover;
+   /* background-image: url("../image/0_HeroBG.jpg");
+    background-size: cover;*/
 }
 
 .slider-1-image{
@@ -226,8 +226,8 @@ p{
         height: 900px;
         width: 100%;
 
-        background-image: url("../image/0_HeroBG_mobile.jpg");
-        background-size: cover;
+        /*background-image: url("../image/0_HeroBG_mobile.jpg");
+        background-size: cover;*/
     }
 
     .slider-2{
@@ -304,8 +304,8 @@ p{
         height: 900px;
         width: 100%;
 
-        background-image: url("../image/0_HeroBG_mobile.jpg");
-        background-size: cover;
+        /*        background-image: url("../image/0_HeroBG_mobile.jpg");
+                background-size: cover;*/
     }
 
     .slider-2{
